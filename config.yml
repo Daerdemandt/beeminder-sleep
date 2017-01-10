@@ -1,0 +1,4 @@
+#lock command: "slock"
+lock command: "echo 'this is a lock command'"
+time to sleep: 25
+sleep length: 8
